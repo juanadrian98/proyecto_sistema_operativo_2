@@ -1,1 +1,0 @@
-# proyecto_sistema_operativo_2
